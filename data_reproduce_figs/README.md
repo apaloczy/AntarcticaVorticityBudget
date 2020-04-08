@@ -1,4 +1,4 @@
-## AntarcticaCircumpolarIntrusions large files (100 MB - 1 GB)
+## AntarcticaVorticityBudget large files (100 MB - 1 GB)
 
 This file contains download links for the large data files (larger than 100 MB but smaller than 1 GB). These are:
 
@@ -6,4 +6,4 @@ This file contains download links for the large data files (larger than 100 MB b
 * [POP_topog.nc](https://www.dropbox.com/s/7ssfb26q7l2c9jn/POP_topog.nc?dl=0) (396 MB)
 
 Once you download the file required by the notebook you are attempting to run, place it on
-this directory **(AntarcticaCircumpolarIntrusions/data_reproduce_figs/)** on your local copy of the repository.
+this directory **(AntarcticaVorticityBudget/data_reproduce_figs/)** on your local copy of the repository.
