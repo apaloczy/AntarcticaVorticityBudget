@@ -1,3 +1,4 @@
 plot_figs/*.ipynb_checkpoints/*
 data_reproduce_figs/POP_topog.nc
 data_reproduce_figs/POP-dzu_dzt_kzit_subsetSO.nc
+data_reproduce_figs/srfstresses_ocn_monthly.nc

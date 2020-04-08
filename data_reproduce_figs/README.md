@@ -4,6 +4,11 @@ This file contains download links for the large data files (larger than 100 MB b
 
 * [POP-dzu_dzt_kzit_subsetSO.nc](https://www.dropbox.com/s/gxi1ckt2sj2jv3v/POP-dzu_dzt_kzit_subsetSO.nc?dl=0) (654 MB)
 * [POP_topog.nc](https://www.dropbox.com/s/7ssfb26q7l2c9jn/POP_topog.nc?dl=0) (396 MB)
+* [srfstresses_ocn_monthly.nc](https://www.dropbox.com/s/wbipb8wjcfckpk7/srfstresses_ocn_monthly.nc?dl=0) (441 MB)
 
 Once you download the file required by the notebook you are attempting to run, place it on
 this directory **(AntarcticaVorticityBudget/data_reproduce_figs/)** on your local copy of the repository.
+
+---
+
+Please [contact André Palóczy](mailto:apaloczy@ucsd.edu) with any questions or if you have issues downloading the files.
