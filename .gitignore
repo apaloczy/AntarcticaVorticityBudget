@@ -4,3 +4,7 @@ data_reproduce_figs/POP-dzu_dzt_kzit_subsetSO.nc
 data_reproduce_figs/srfstresses_ocn_monthly.nc
 data_reproduce_figs/uvIT2005-2009.nc
 data_reproduce_figs/vortbdgt_2005-2009avgzint.nc
+data_reproduce_figs/vortbdgt_2005-2009AMJavgzint.nc
+data_reproduce_figs/vortbdgt_2005-2009JASavgzint.nc
+data_reproduce_figs/vortbdgt_2005-2009JFMavgzint.nc
+data_reproduce_figs/vortbdgt_2005-2009ONDavgzint.nc
