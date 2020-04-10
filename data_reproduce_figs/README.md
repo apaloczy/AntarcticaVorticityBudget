@@ -4,6 +4,7 @@ This file contains download links for the large data files (larger than 100 MB b
 
 * [POP-dzu_dzt_kzit_subsetSO.nc](https://www.dropbox.com/s/gxi1ckt2sj2jv3v/POP-dzu_dzt_kzit_subsetSO.nc?dl=0) (654 MB)
 * [POP_topog.nc](https://www.dropbox.com/s/7ssfb26q7l2c9jn/POP_topog.nc?dl=0) (396 MB)
+* [kzit.nc](https://www.dropbox.com/s/n7y7p8aktbm3ey4/kzit.nc?dl=0) (198 MB)
 * [srfstresses_ocn_monthly.nc](https://www.dropbox.com/s/wbipb8wjcfckpk7/srfstresses_ocn_monthly.nc?dl=0) (441 MB)
 * [uvIT2005-2009.nc](https://www.dropbox.com/s/61i3wfyfqynn5ic/uvIT2005-2009.nc?dl=0) (289 MB)
 * [vortbdgt_2005-2009avgzint.nc](https://www.dropbox.com/s/knokau5d9izkme5/vortbdgt_2005-2009avgzint.nc?dl=0) (234 MB)
