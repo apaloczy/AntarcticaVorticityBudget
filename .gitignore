@@ -1,6 +1,8 @@
 plot_figs/*.ipynb_checkpoints/*
 data_reproduce_figs/POP_topog.nc
 data_reproduce_figs/kzit.nc
+data_reproduce_figs/volmsk800m.npz
+data_reproduce_figs/volmsk2500m.npz
 data_reproduce_figs/POP-dzu_dzt_kzit_subsetSO.nc
 data_reproduce_figs/srfstresses_ocn_monthly.nc
 data_reproduce_figs/uvIT2005-2009.nc
