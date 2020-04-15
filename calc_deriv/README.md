@@ -11,5 +11,6 @@ Brief description of each \*.py file:
 * `206b-calc_circulation_segments.py`: Calculates the same time series as the above script, but area-averaged within segments of the circumpolar control volume (Amundsen-Bellingshausen, Western Antarctic Peninsula, Weddell, Western East Antarctica, Eastern East Antarctica and Ross, see Figure 1 in the manuscript).
 * `210a-calc_wind-ice-ocean_stress.py`: Calculates the surface ocean stress vector (stress due to the wind plus stress due to the relative sea ice motion) from POP and CICE outputs.
 * `300-calc_zIT.py`: Calculates the vertical index of the deepest cell in the POP model grid that has no sidewalls.
+* `measure_segment_lengths.py`: Calculates the length of each segment.
 
 Please contact [André Palóczy](mailto:apaloczy@ucsd.edu) with any questions on the code.
