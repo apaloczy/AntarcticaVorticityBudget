@@ -1,5 +1,7 @@
 # AntarcticaVorticityBudget
 
+[![DOI](https://www.zenodo.org/badge/213719618.svg)](https://www.zenodo.org/badge/latestdoi/213719618)
+
 This repository contains codes and processed datasets for a manuscript entitled **"The large-scale vorticity balance of the Antarctic continental margin in a fine-resolution global simulation"**, by A. Palóczy, J. L. McClean, S. T. Gille and He Wang, [published on the Journal of Physical Oceanography](https://journals.ametsoc.org/jpo/article/doi/10.1175/JPO-D-19-0307.1/348316/The-large-scale-vorticity-balance-of-the-Antarctic). This [Jupyter notebook](https://nbviewer.jupyter.org/github/apaloczy/AntarcticaVorticityBudget/blob/master/index.ipynb) provides an overview of the contents.
 
 The directory **plot_figs/** contains the Python codes used to produce the tables and figures in the manuscript (Figures 1-9) and the svg figure for the schematic (Figure 10). The codes depend on the data files in the **data_reproduce_figs/** directory. Some of these are too large to be included in this repository, but are available for download from the links listed on the accompanying README files. Please contact [André Palóczy](mailto:apaloczy@ucsd.edu) if you have issues downloading the files.
